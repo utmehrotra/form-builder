@@ -23,9 +23,12 @@
   ],
   "license": "MIT",
   "ignore": [
-    "**/*",
+    "**/.*",
     "node_modules",
-    "test"
+    "docs",
+    "demo",
+    "src",
+    "tools"
   ],
   "config": {
     "files": {
