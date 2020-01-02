@@ -16,14 +16,6 @@
   "moduleType": [
     "jquery"
   ],
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "docs",
-    "demo",
-    "src",
-    "tools"
-  ],
   "dependencies": {
     "jquery-ui-sortable": "*",
     "jquery": "^3.1.1"
