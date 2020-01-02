@@ -1,6 +1,6 @@
 {
   "name": "form-builder",
-  "version": "3.2.7",
+  "version": "3.2.8",
   "main": "dist/form-builder.min.js",
   "description": "A jQuery plugin for drag and drop form building",
   "authors": [
@@ -15,6 +15,14 @@
   "license": "MIT",
   "moduleType": [
     "jquery"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "docs",
+    "demo",
+    "src",
+    "tools"
   ],
   "dependencies": {
     "jquery-ui-sortable": "*",
