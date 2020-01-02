@@ -17,16 +17,19 @@
     "jquery"
   ],
   "ignore": [
-    "*",
-    "!dist",
-    "!dist/**/*"
+    "**/.*",
+    "node_modules",
+    "docs",
+    "demo",
+    "src",
+    "tools"
   ],
   "dependencies": {
     "jquery-ui-sortable": "*",
     "jquery": "^3.1.1"
   },
   "repository": {
-    "url": "http://github.com/kevinchappell/formBuilder",
+    "url": "https://github.com/utmehrotra/form-builder",
     "type": "git"
   },
   "author": "Kevin Chappell <kevin.b.chappell@gmail.com>"
