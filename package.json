@@ -1,10 +1,10 @@
 {
-  "name": "formBuilder",
-  "version": "3.2.6",
+  "name": "form-builder",
+  "version": "3.2.7",
   "main": "dist/form-builder.min.js",
   "homepage": "https://formbuilder.online/",
   "repository": {
-    "url": "https://github.com/kevinchappell/formBuilder.git",
+    "url": "https://github.com/utmehrotra/form-builder",
     "type": "git"
   },
   "files": [
